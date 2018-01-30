@@ -9,13 +9,13 @@ The application is written using Object Oriented C# using Unity. To play the gam
   Press continue once everything is selected
 ### Game
   #### P1
-  Movement:   WASD
-  Fire Left:  'G'
-  Fire Right: 'H'
+  - Movement:   WASD
+  - Fire Left:  'G'
+  - Fire Right: 'H'
   #### P2
-  Movement:   Arrow Keys
-  Fire Left:  '-'
-  Fire Right: '='
+  - Movement:   Arrow Keys
+  - Fire Left:  '-'
+  - Fire Right: '='
 ### Game Over
   Enter to select Restart
 
